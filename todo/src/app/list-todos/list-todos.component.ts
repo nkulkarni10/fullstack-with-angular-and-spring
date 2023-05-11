@@ -20,7 +20,8 @@ export class ListTodosComponent implements OnInit{
     // {id : 2, description : 'become an angular expert'}
     new Todo(1, 'learn to dance', false, new Date()),
     new Todo(2, 'become an angular expert', true, new Date()),
-    new Todo(3, 'visit india', true, new Date())
+    new Todo(3, 'visit india', true, new Date()),
+    new Todo(4, 'visit us', false, new Date())
   ]
 
   ngOnInit(): void {
