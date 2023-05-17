@@ -1,4 +1,4 @@
-package com.rest.webservices;
+package com.rest.webservices.helloworld;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
